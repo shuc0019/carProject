@@ -1,5 +1,5 @@
 How I covered the learning goals
-
+ssss
 - The idea with, and reasons for why to use, a ORM-mapper
 
   Speeds up development, makes it easier to change database
